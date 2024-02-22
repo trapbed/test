@@ -1,0 +1,16 @@
+#imageLogo{
+    height: 2vmax;
+}
+body{
+    display: flex;
+    flex-direction: column;
+}
+#form{
+    align-self: center;
+    width: 70vmax;
+}
+#account{
+    align-self: center;
+    width: 70vmax;
+    line-height: 300%;
+}
